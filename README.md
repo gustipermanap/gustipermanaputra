@@ -2,7 +2,7 @@
 [![MasterHead](https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.webp)](https://gustipermanap.io)
 <h1 align="center">Hi 👋, I'm Gusti Permana Putra</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia, Jakarta</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustipermanap&label=Profile%20views&color=0e75b6&style=flat" alt="gustipermanap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustipermanap" alt="gustipermanap" /></a> </p>
